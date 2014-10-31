@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/hone/okyakusan.git
+  revision: 460016da18a7a961f72b1d70a7c4a72598f98a70
+  specs:
+    okyakusan (0.0.1)
+      netrc (~> 0.7.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -10,3 +17,4 @@ PLATFORMS
 DEPENDENCIES
   concurrent-ruby
   netrc
+  okyakusan!
